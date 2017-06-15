@@ -1,0 +1,26 @@
+{ "name": "method-by-name",
+  "version": "0.1.0",
+  "description": "Generic method that calls other methods by name.",
+  "keywords": [ "call", "method" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/method-by-name-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/method-by-name-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/method-by-name-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "mtd.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "devDependencies": { "equal-pmb": "^0.1.6" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
